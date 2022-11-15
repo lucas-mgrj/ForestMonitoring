@@ -1,0 +1,25 @@
+[
+  {
+    "id": "focos_ams_24h.fb0e3e4b-f1a4-3b3d-a81f-48466fc2b614",
+    "type": "Feature",
+    "geometry_name": "geom",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -49.3,
+        -22.91
+      ]
+    },
+    "properties": {
+      "longitude": -49.3,
+      "latitude": -22.91,
+      "satelite": "GOES-16",
+      "pais": "Brasil",
+      "estado": "SÃO PAULO",
+      "municipio": "ÁGUAS DE SANTA BÁRBARA",
+      "data_hora_gmt": "2022-05-17T22:03:05+00:00",
+      "risco_fogo": null,
+      "precipitacao": null,
+      "numero_dias_sem_chuva": null
+    }
+  },

@@ -1,0 +1,11 @@
+[
+    {
+        "PositionMagnifyingGlass" : "x=41,y=241",
+        "PositionSearchBar": "x=179,y=171",
+        "host": "localhost",
+        "user": "root",
+        "password": "22000833lucas!",
+        "database": "db_ForestMonitoring",
+        "SaveInSQLDB": 1
+    }
+]
